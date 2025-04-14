@@ -1,0 +1,16 @@
+
+    skills
+
+    tituloTech
+    imagensTech
+
+    projetos
+
+    titulo
+    imagemUrl
+    descrica
+    tecnologiasImg{
+        acessar ImagensTech
+    }
+    linkSite
+    linkCodigo
